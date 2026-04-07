@@ -14,5 +14,5 @@
 - AI 기반 공동구매(배달 및 생필품) 플랫폼 (DealMate)
 
 ## 📫 Links
-- Email: rhdiddl7899@yu.ac.kr
+- School email: rhdiddl7899@yu.ac.kr
 - https://github.com/Hyeonkyeong-Kim/dealmate
