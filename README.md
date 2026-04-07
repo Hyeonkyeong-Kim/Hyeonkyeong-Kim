@@ -1,4 +1,4 @@
-# 🧑‍💻 Introduction
+## 🧑‍💻 Introduction
 오픈소스SW 이해, 설계 과목을 동시 수강하고 있습니다.
 비동일계 편입생으로 현재는 C++ 프로그래밍 언어를 배우는 중입니다.
 
@@ -7,8 +7,6 @@
 
 ## 📚 Currently Learning
 - Git / GitHub
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 - C++ (기초 학습 중)
   
 ## 📂 Project (ing)
