@@ -9,7 +9,7 @@
 - Git / GitHub
 - C++ (기초 학습 중)
 
-## 📂 Project
+## 📂 Project (ing)
 - AI 기반 공동구매(배달 및 생필품) 플랫폼 (DealMate)
 
 ## 📫 Links
