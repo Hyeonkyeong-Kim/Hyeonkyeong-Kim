@@ -9,8 +9,6 @@
 - Git / GitHub
 - C++ (기초 학습 중)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hyeonkyeong-Kim&show_icons=true&theme=default"/>
-
 ## 📂 Project (ing)
 - AI 기반 공동구매(배달 및 생필품) 플랫폼 (DealMate)
 
