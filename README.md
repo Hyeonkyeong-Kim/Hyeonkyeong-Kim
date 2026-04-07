@@ -8,7 +8,7 @@
 ## 📚 Currently Learning
 - Git / GitHub
 - C++ (기초 학습 중)
-
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 ## 📂 Project (ing)
 - AI 기반 공동구매(배달 및 생필품) 플랫폼 (DealMate)
 
