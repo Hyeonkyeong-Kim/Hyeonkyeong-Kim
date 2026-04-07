@@ -1,16 +1,17 @@
-## Hi there 👋
+# 🧑‍💻 Introduction
+오픈소스SW 이해, 설계 과목을 동시 수강하고 있습니다.
+비동일계 편입생으로 현재는 C++ 프로그래밍 언어를 배우는 중입니다.
 
-<!--
-**Hyeonkyeong-Kim/Hyeonkyeong-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Career
+- 영남대학교 컴퓨터공학과 재학(3학년)
 
-Here are some ideas to get you started:
+## 📚 Currently Learning
+- Git / GitHub
+- C++ (기초 학습 중)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Project
+- AI 기반 공동구매(배달 및 생필품) 플랫폼 (DealMate)
+
+## 📫 Links
+- Email: rhdiddl7899@yu.ac.kr
+- https://github.com/Hyeonkyeong-Kim/dealmate
